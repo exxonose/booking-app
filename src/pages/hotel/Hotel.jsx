@@ -8,6 +8,7 @@ import { faCircleArrowLeft, faCircleArrowRight, faCircleXmark, faLocationDot } f
 import { useState } from "react";
 
 
+
     const Hotel = () => {
 
         const [slideNumber, setSlideNumber] = useState(0);
